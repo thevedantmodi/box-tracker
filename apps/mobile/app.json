@@ -1,0 +1,18 @@
+{
+	"expo": {
+		"name": "BoxTrack",
+		"slug": "box-tracker",
+		"version": "1.0.0",
+		"scheme": "boxtrack",
+		"orientation": "portrait",
+		"platforms": ["ios"],
+		"ios": {
+			"supportsTablet": false,
+			"bundleIdentifier": "com.boxtrack.app"
+		},
+		"plugins": ["expo-router"],
+		"experiments": {
+			"typedRoutes": true
+		}
+	}
+}
